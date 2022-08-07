@@ -1,0 +1,48 @@
+@font-face {
+    font-family: aspace;
+    src: url("aspace_demo.otf");
+}
+
+
+body {
+    text-align: center;
+    margin: 0;
+}
+
+
+.hero {
+    color: #82a5ca;
+    background-image: url("galaxy-gif.webp");
+    background-size: cover;
+    font-family: "aspace";
+    padding: 10px 0 475px 0;
+    text-shadow: rgb(40, 52, 65) 0px 0px 4px;
+}
+
+
+#main-logo {
+    width: 5%;
+}
+
+
+.apply-btn {
+    border-radius: 0;
+    border: 0 solid;
+    background-color: white;
+    padding: 10px 15px;
+    font-family: "aspace";
+    color: #82a5ca;
+    font-weight: bolder;
+}
+
+
+.underline {
+    text-decoration: underline 3px white;
+}
+
+
+#terms {
+    color: #82a5ca;
+    font-family: "aspace";
+    font-weight: bolder;
+}
